@@ -2,13 +2,15 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">NGS Pipeline Development</h3>
+  <h3 align="center">Streamlit Dashboard</h3>
   <p align="center">
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The purpose of this project was create an online multi-page dashboard for data analysis and visualizaion using Streamlit.  
+The purpose of this project was create an online multi-page dashboard for data analysis and visualizaion using Streamlit.
+
+NOTE: Original data values were replaced with random numbers using NumPy.
 
 <!-- GETTING STARTED -->
 ## Getting Started
