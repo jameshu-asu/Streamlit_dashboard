@@ -1,0 +1,14 @@
+
+name: streamlit_environment
+
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - streamlit
+    - plotly_express
+    - plotly
+    - folium
+    - streamlit-folium
