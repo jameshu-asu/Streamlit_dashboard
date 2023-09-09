@@ -8,7 +8,6 @@ import datetime
 from datetime import datetime as dt
 import plotly.io as pio
 
-
 # By James C. Hu
 # This page displays the SARS-CoV-2 spike amino acid mutation tracker.
 
