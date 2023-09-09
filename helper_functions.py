@@ -723,7 +723,7 @@ def VSP_counts_line_graph(df: pd.DataFrame, location: str) -> px.line():
 
 
 ####_________MISC__________####
-# # Couldnt figure out how to pass CSS hacking through imported fuctions so this function currently exists at the start of each page.
+# # Couldnt figure out how to pass CSS through imported fuctions so this function currently exists at the start of each page.
 # def HIGHLIGHTER(x: pd.Series):
 #     '''
 #     This function changes the color of each cell of the read distribution table based on criteria.
