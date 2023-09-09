@@ -10,7 +10,6 @@ from datetime import datetime
 from streamlit_folium import st_folium
 from PIL import Image
 
-
 # By James C. Hu
 # This page displays ASU Downtown campus wastewater data.
 
