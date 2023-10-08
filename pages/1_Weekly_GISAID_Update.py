@@ -26,7 +26,7 @@ st.write(
     This page displayes currenlty circulating SARS-CoV-2 lineages in Arizona.
 
     #### Highlights
-    - To date, the Lim lab has contributed more than 100,000 sequences towards SARS-CoV-2 surveillance efforts in [Arizona](https://news.asu.edu/20220510-arizona-impact-milestone-arizona-researchers-sequence-genomes-more-100000-covid19-samples).
+    - To date, the Lim lab has contributed over 50,000 sequences towards SARS-CoV-2 surveillance efforts in [Arizona](https://news.asu.edu/20220510-arizona-impact-milestone-arizona-researchers-sequence-genomes-more-100000-covid19-samples).
     - Sequenced samples include saliva samples provided by the ASU Biodesign Clinical Testing Lab (ABCTL) and partnered hospitals (Valleywise, Phoenix Children’s, Dignity Health) and [waste water](https://journals.asm.org/doi/full/10.1128/mbio.03101-22) samples provided by Halden lab.
     - Data was also obtained from the Global Initiave on Sharing Avian Influenza Data (GISAID) database. To learn more, visit [GISAID.org](https://gisaid.org/).
 
